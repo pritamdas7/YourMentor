@@ -1,4 +1,4 @@
 # C Bootcamp
 
-This repo contains assignments for YourMentor bootcamp hosted by Lungsom Lamnio.
+This folder contains C language assignments for YourMentor bootcamp hosted by Lungsom Lamnio.
 
